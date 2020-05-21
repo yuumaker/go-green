@@ -1,0 +1,63 @@
+{
+   "accountname": "amazing_unicornn",
+   "clockList": [
+      {
+         "carname":"垃圾車車101-049",
+         "time": "21:04-21:08",
+         "address": "臺北市大安區臥龍街211號"
+         
+      },
+      {
+         "carname":"廚餘車車(每周三)100-031",
+         "time": "18:15-18:30",
+         "address": "臺北市文山區忠順街一段50號前"
+      }
+      ],
+   "activityList":[
+      {
+         "genre":"連署",
+         "image": "https://github.com/s110719005/app_midterm_img/blob/master/img_act1.png?raw=true",
+         "content":"台灣的海岸線約1,600公里，為了保護瀕危海龜，林務局以南北分工方式 ...",
+         "con_image":"https://github.com/s110719005/app_midterm_img/blob/master/img_act_con_1.png?raw=true",
+         "con_title":"不是因為餓，而是因為塑膠聞起來像食物",
+         "con_detail":"    每年湧入海洋的塑膠垃圾估計達數百萬公噸，相當於每 1 分鐘就將 1 輛紐約市的垃圾車倒入海洋，對以海洋為家的海洋生物來說，簡直是無妄之災。過去研究估計，全球多達 52% 海龜誤食過塑膠，澳洲聯邦科學與工業研究組織（CSIRO）研究也發現，只要食用一塊塑膠，海龜就有 22% 機率因此死亡，而當腹部累積了 14 種塑膠垃圾時，死亡可能性增加到 50%。 \r\r    但為什麼大海如此遼闊，海龜還會吃下足以致死量的塑膠垃圾？有人猜測可能是因為外觀。美國佛羅里達大學團隊對此進行一項圈養 15 隻幼齡赤蠵龜（loggerhead sea turtle）的實驗。在實驗中，海龜被裝在水箱內，接著研究人員藉管子往水面上方釋放各種味道，發現海龜很大程度上對乾淨的水、乾淨的塑膠味無動於衷，卻在聞到浸泡過海水的塑膠後把頭探出水面，時間是其他味道的 3 倍有餘，這種反應與聞到正常食物味道後的反應一樣。 為了保護無辜的海龜，請加入我們的連署，只要完成幾個步驟就能讓您的關心發揮最大效益!"
+         ,"con_uri":"https://technews.tw/2020/03/10/olfactory-trap-plastic-waste-sea-turtle/"
+      },
+      {
+         "genre":"志工",
+         "image": "https://github.com/yuumaker/appimage/blob/master/圖片/photo-1562591970-254bc62245c0.jpg?raw=true",
+         "content":"半島春季淨灘計畫!!! 本次淨灘活動邀請有志於海洋永續共生的半島居 ...",
+         "con_title":"尚無內容"
+         
+      },
+      {
+         "genre":"教育",
+         "image": "https://github.com/yuumaker/appimage/blob/master/圖片/photo-1542739674-b449a8938b59.jpg?raw=true",
+         "content":"放對位置 就是資源 棄物回收再利用的成效越佳，環境污染就越少 ...",
+         "con_title":"尚無內容"
+         
+      },
+      {
+         "genre":"連署",
+         "image": "https://github.com/yuumaker/appimage/blob/master/圖片/pexels-photo-2397653.jpeg?raw=true",
+         "content":"台灣的海岸線約1,600公里，為了保護瀕危海龜，林務局以南北分工方式 ...",
+         "con_title":"尚無內容"
+         
+      },
+      {
+         "genre":"志工",
+         "image": "https://github.com/yuumaker/appimage/blob/master/圖片/photo-1572964782790-92b2dccabe68.jpg?raw=true",
+         "content":"半島春季淨灘計畫!!! 本次淨灘活動邀請有志於海洋永續共生的半島居 ...",
+         "con_title":"尚無內容"
+         
+      },
+      {
+         "genre":"教育",
+         "image": "https://github.com/yuumaker/appimage/blob/master/圖片/photo-1567393528677-d6adae7d4a0a.jpg?raw=true",
+         "content":"放對位置 就是資源 棄物回收再利用的成效越佳，環境污染就越少 ...",
+         "con_title":"尚無內容"
+         
+      }
+      
+   ]
+}
